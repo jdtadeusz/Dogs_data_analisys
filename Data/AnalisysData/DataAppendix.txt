@@ -1,0 +1,8 @@
+dogs_clean.csv: 
+- Name: a name of the dog 
+- Breed: a breed of the dog 
+- Color: a color of the dog 
+- Height (cm): a height of the dog 
+- Weight (kg): a weight of the dog 
+- Date of birth: a date of birth of the dog 
+- Age: an age of the dog 

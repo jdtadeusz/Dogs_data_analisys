@@ -1,0 +1,50 @@
+Name;Breed;Height (cm);Weight (kg);Date of Birth;Age
+Bella ;Labrador ;56.0;25.0;2013-07-01;11
+Charlie ;Poodle ;43.0;23.0;2016-09-16;8
+Lucy ;Chow Chow ;46.0;22.0;2014-08-25;10
+Cooper ;Schnauzer ;49.0;17.0;2011-12-11;13
+Max ;Labrador ;59.0;29.0;2017-01-20;7
+Stella ;Chihuahua ;18.0;2.0;2015-04-20;9
+Bernie ;St. Bernard ;77.0;74.0;2018-02-27;6
+Daisy ;Labrador ;57.0;27.0;2012-06-30;12
+Rocky ;Poodle ;41.0;22.0;2017-03-03;7
+Milo ;Chow Chow ;48.0;24.0;2016-08-15;8
+Rex ;Schnauzer ;50.0;18.0;2015-07-07;9
+Sadie ;Labrador ;58.0;28.0;2014-10-14;10
+Luna ;Chihuahua ;19.0;3.0;2018-11-11;6
+Hank ;St. Bernard ;75.0;72.0;2019-05-12;5
+Buddy ;Labrador ;60.0;30.0;2013-02-09;11
+Lily ;Poodle ;45.0;20.0;2018-01-04;6
+Duke ;Chow Chow ;47.0;23.0;2015-03-18;9
+Oscar ;Schnauzer ;51.0;19.0;2012-12-02;12
+Zoe ;Labrador ;55.0;26.0;2016-09-22;8
+Minnie ;Chihuahua ;17.0;2.0;2020-06-10;4
+Thor ;St. Bernard ;78.0;76.0;2017-04-06;7
+Sam ;Labrador ;59.0;28.0;2014-11-11;10
+Baxter ;Poodle ;42.0;21.0;2018-07-29;6
+Ruby ;Chow Chow ;49.0;22.0;2012-02-27;12
+Teddy ;Schnauzer ;48.0;18.0;2014-01-12;10
+Maggie ;Labrador ;57.0;27.0;2017-03-14;7
+Harley ;Chihuahua ;19.0;3.0;2019-12-05;5
+Zeus ;St. Bernard ;80.0;78.0;2020-06-19;4
+Ginger ;Labrador ;56.0;25.0;2016-08-07;8
+Chloe ;Poodle ;44.0;22.0;2015-05-13;9
+Bear ;Chow Chow ;46.0;21.0;2013-01-25;11
+Finn ;Schnauzer ;50.0;18.0;2017-11-30;7
+Bruno ;Labrador ;58.0;28.0;2015-10-26;9
+Peanut ;Chihuahua ;17.0;3.0;2021-02-20;3
+Tank ;St. Bernard ;76.0;73.0;2016-03-18;8
+Jack ;Labrador ;59.0;29.0;2018-12-09;6
+Penny ;Poodle ;43.0;21.0;2016-04-04;8
+Moose ;Chow Chow ;48.0;23.0;2018-08-21;6
+Toby ;Schnauzer ;49.0;17.0;2016-09-12;8
+Willow ;Labrador ;57.0;26.0;2015-05-22;9
+Coco ;Chihuahua ;18.0;2.0;2017-01-17;7
+Apollo ;St. Bernard ;77.0;75.0;2015-07-29;9
+Murphy ;Labrador ;58.0;27.0;2017-09-06;7
+Piper ;Poodle ;44.0;22.0;2017-11-09;7
+Nala ;Chow Chow ;47.0;24.0;2014-06-14;10
+Riley ;Schnauzer ;51.0;19.0;2019-04-30;5
+Archie ;Labrador ;59.0;28.0;2019-10-05;5
+Sophie ;Chihuahua ;18.0;2.0;2018-03-15;6
+Buster ;St. Bernard ;79.0;77.0;2018-07-11;6
