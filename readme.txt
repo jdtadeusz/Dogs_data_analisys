@@ -1,1 +1,0 @@
-Heaviest breed is St. Bernard  with an average weight of 75.0.
