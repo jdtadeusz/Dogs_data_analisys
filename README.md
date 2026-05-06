@@ -1,4 +1,4 @@
-# Dogs Data Analysis 🐕
+# Dogs Data Analysis 
 
 A comprehensive data analysis project focused on dog breeds, their characteristics, and statistical insights.
 
@@ -9,11 +9,6 @@ This project analyzes various dog breeds and their physical characteristics, inc
 ## Key Findings
 
 - **Heaviest Breed**: St. Bernard with an average weight of 75.0 kg
-
-## Repository Contents
-
-- `readme.txt` - Initial project notes
-- `README.md` - This file
 
 ## Features
 
@@ -41,27 +36,5 @@ The dataset includes information about various dog breeds such as:
 
 - Data analysis tools
 - Statistical analysis
-- Data visualization (if applicable)
+- Data visualization 
 
-## Contributing
-
-Feel free to contribute by:
-- Adding more dog breed data
-- Improving analysis methods
-- Suggesting new insights or visualizations
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-Created by [jdtadeusz](https://github.com/jdtadeusz)
-
-## Project Date
-
-Started: May 2026
-
----
-
-**Note**: For more detailed analysis results, please check the project's data files and analysis outputs.
